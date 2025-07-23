@@ -1,0 +1,3 @@
+# Ignore generated files and build directories
+build/
+.dart_tool/
