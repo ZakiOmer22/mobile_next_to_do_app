@@ -17,7 +17,7 @@ A sleek and responsive mobile To-Do list app built with Flutter and Supabase. Su
 ## 📸 Screenshots
 
 <p float="left">
-  <img src="./assest/screenshot.png" width="200"/>
+  <img src="./assets/screenshot.png" width="200"/>
   <img src="./screenshots/screen2.png" width="200"/>
   <img src="./screenshots/screen3.png" width="200"/>
 </p>
