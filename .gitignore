@@ -1,3 +1,7 @@
-# Ignore generated files and build directories
 build/
 .dart_tool/
+.flutter-plugins
+.packages
+.idea/
+*.iml
+.env
